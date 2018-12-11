@@ -1,5 +1,7 @@
 # ping_vultr
-对vultr服务器中心进行ping测试脚本。 vultr node ping python script.
+对vultr服务器中心进行ping测试脚本 
+
+vultr node ping python script.
 
 ### ping_vultr_cn.py
 中文的测试脚本。
@@ -11,7 +13,7 @@ python ping_vultr_cn.py
 or
 python ping_vultr_eng.py
 
-2018.12.11测试结果：
+2018.12.11测试结果(from China).
 ```
 日本东京
 最小时延 116.920 最大时延 216.279 时延标准差 30.203  平均时延 171.584
@@ -45,7 +47,7 @@ python ping_vultr_eng.py
 最小时延 229.463 最大时延 373.246 时延标准差 43.057  平均时延 295.319
 ```
 
-2018.12.11 ping result.
+2018.12.11 ping result(from China).
 ```
 Tokyo, Japan
 min delay 111.130 max delay 197.485 delay stddev 29.585  avg delay 131.995
